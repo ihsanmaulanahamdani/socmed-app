@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "social-sharing-media",
+  "private_key_id": "be5506fc3912540fca44a39c6a34c19894652531",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaWDjW0Zuo9wX6\nortCOUC474RKUPr9ZPJr35y/0ynw+KYv5hcBEOJhVrURLdiPhRQfs9fZN3cPPn9j\nTzvdBUwv5M08lA6yiH5eIarUv+ccGELfSUrahdkM7zuV3pheHA7Mq6c5GvrcMnOU\n6P9ltW3TGwSuF8umAwmKbchSTeJtyQHuMvEZJlicJDXVe81wfmx1gL1jkLJAeAKF\n4AwNkeQfo8HLrxuZESWBjgQNv2ZJVUaNxD/p8KTN3uHJAIQjLWuN/wVu3h4Vo4cJ\nrOizZ0baFClK5yY+78E5JQWW114YAFFz+UTlno6CNyeg6gv37sjJ6whvFEudNU8Q\nRthqI2+3AgMBAAECggEACvVKi83z/EoVjZbyLqB7/OVcgh4/w6/gGlKVAXWPm8E7\no1j1tyioufp6/o4/uuja5elR4OU0OcvZJYbhnC6dGyVmgO+OH5TbS/md9F7vnKoI\nTWwZuWwZXfa6R0i3jq71SgjB5acJuoqGdEMapvD7rCpV6bpcxhufGMn0mAtZkSvB\nEXBiZ/6haHjo6QycvVhtelXk8QT7y8ymbjR5FO6MVmorXK/w6bJ3UhXmsGtXPmNh\n0KxbOWLM93DhPMVsC7tjLDOpjicpwaYA5394wmicudNRvqiOKyIdAsIgVbBjklTi\n9Il/R2fBJTT/QH2IM3jVxXyszayQYjtQNOj40GG0MQKBgQDKMGtWazcDsnUXsGnK\nUl679sRGhs7ImiMMHwCMA8ZTo1WYGVoDMyrolPCpBKfEDTotfp53a6H4z7kqzgWX\nXd2Yvuk0qecLjsz3q0v1pTHk97hszb7ZnzjbqIx4DnLwyQsB3HpKUfwaj1p3OWiU\nTtQnxmQXwdVPdzRtl25jz5mriQKBgQDDbA18ZgYkYY0mgoSETYpTFkqBmHvidEu0\n8CYguW8QWZ2tMrp2AQewKD4Fdug5/XXr/wSOyxyH4zJi/JgtWo1y/V1aRSxVxPeK\nY7Hd/XZoE8Mjpj1TaIP/Ndz9j2USp1ju5sCgL+J2wbkRJ5Ydwq9+uDzQhuDKXj+v\n/5NQDVUxPwKBgCWToh9Jhcv2GrTwYHjtnhWo4wmIfF3j56eVC3D6Mp3QuVOvQn9d\nvxfCtodzCgrxumJCKglfw5aOZIeECp37H/gHYygae4o2W/mbqF5a+U7oiyoNgu7H\nHLYWOSUG6m29r4IFC+VMH2KASfvme300uVE7GdcgexhtuxyzDB0YtCKhAoGAHvLe\n0+Ood1yHqSCkcfuBu5TdKdcHT57RWo9pymbzoug+Y26UPxn8qLZG1EC3mG9+nGhf\nxWl/VDn0Ad81DoG3ww1DGoe39MFj3qPZSGnatbLjhaLPNYVo2iMio3lxLVoZaIRc\n30GWIO6fK4tUZ9QsTOpKn0+tC/+PIIVeRCBIbKsCgYEAnWxGzt0HBJEY+/fLh0KV\nra4CC72TEmzx6sNTq/6XR0HAEWkFCayzR6+X7SVHK+ECtsuhgPaUveUnQDZX24Ug\n4SRp6vYzlg9yGWkGRVl5X+BjfpBxA4GUGc+e2WVbB4AefNIYy9Vzn4CX9y/8ATPD\nB3I8k94aIIDywYan7ajBt/s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-photo@social-sharing-media.iam.gserviceaccount.com",
+  "client_id": "115923218372259224509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-photo%40social-sharing-media.iam.gserviceaccount.com"
+}
